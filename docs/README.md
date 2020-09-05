@@ -35,6 +35,10 @@ This project is currently in beta testing but it is fairly stable and feature co
 
 This software is 100% open source and developed by a group of hobbyist experimenters. No warranty is provided, if you'd like to improve it - we'd love your help. Please post in the [forum](https://meshtastic.discourse.group/).
 
+### Beginner's Guide
+
+For an detailed walk-through aimed at beginners, we recommend [meshtastic.letstalkthis.com](https://meshtastic.letstalkthis.com/).
+
 # Updates
 
 Note: Updates are happening almost daily, only major updates are listed below. For more details see our forum.
@@ -61,6 +65,8 @@ The link above will return older more stable releases. We would prefer if you jo
 3. If you encounter any problems or have questions, post in our [forum](https://meshtastic.discourse.group/) and we'll help.
 
 If you'd like to help with development, the source code is [on github](https://github.com/meshtastic/Meshtastic-Android).
+
+The app is also distributed for Amazon Fire devices via the Amazon appstore: [![Amazon appstore link](https://raw.githubusercontent.com/meshtastic/Meshtastic-device/master/images/amazon-fire-button.png)](https://www.amazon.com/Geeksville-Industries-Meshtastic/dp/B08CY9394Q)
 
 ## Supported hardware
 
